@@ -6,13 +6,10 @@ layout: home
 ---
 
 # Benwei Shi
+
+**Ph.D. candidate, School of Computing, University of Utah** <br>
+BS Computer Science, University of Utah (2018)  
 [CV](./assets/benwei_cv.pdf)
-
-**Ph.D., School of Computing, University of Utah** <br>
-BS Computer Science, University of Utah (2018)
-
-50 S Central Campus, MEB 3445<br>
-Salt Lake City, UT 84112
 
 ## Committee:
 Advisor: [Dr. Jeff Phillips](https://www.cs.utah.edu/~jeffp/)
@@ -20,5 +17,13 @@ Advisor: [Dr. Jeff Phillips](https://www.cs.utah.edu/~jeffp/)
 ## Research Interests:
 
 Algorithms for Big Data Analytics: Geometric Data Analysis, Coresets and Sketches, Data Mining, Machine Learning, Deep Learning. <br>
-General/Super Intelligence.<br>
 Computer Graphic, Computer Visual.
+
+## Publications:
+- [At-the-time and Back-in-time Persistent Sketches](./assets/papers/ATTP_sigmod21.pdf).  
+  Benwei Shi, Zhuoyue Zhao, Yanqing Peng, Feifei Li, and [Jeff M. Phillips](https://www.cs.utah.edu/~jeffp/).  
+  [*SIGMOD/PODS '21: Proceedings of the 2021 International Conference on Management of Data*](https://dl.acm.org/doi/abs/10.1145/3448016.3452802). June 2021.
+- [A Deterministic Streaming Sketch for Ridge Regression](./assets/papers/FDRR_aistats21.pdf).  
+  Benwei Shi and [Jeff M. Phillips](https://www.cs.utah.edu/~jeffp/).  
+  [*International Conference on Artificial Intelligence and Statistics (AIStats '21)*](http://proceedings.mlr.press/v130/shi21b.html). April 2021.  
+  [arXiv:2002.02013](https://arxiv.org/abs/2002.02013). February 2020.
