@@ -80,6 +80,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
+  jekyll-seo-tag
   minima
   tzinfo-data
 
