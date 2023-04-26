@@ -7,12 +7,12 @@ layout: home
 
 # Benwei Shi
 
-**Ph.D. candidate, School of Computing, University of Utah** <br>
+**Computing Ph.D. candidate, University of Utah (2023)**  
 BS Computer Science, University of Utah (2018)  
 [CV](./assets/benwei_cv.pdf)
 
 ## Committee:
-Advisor: [Dr. Jeff Phillips](https://www.cs.utah.edu/~jeffp/)
+[Dr. Jeff Phillips](https://www.cs.utah.edu/~jeffp/) (Chair), Dr. Qingyao Ai, Dr. Aditya Bhaskara, Dr. Bei Wang Phillips, Dr. Heidi Anne Hanson.
 
 ## Research Interests:
 
