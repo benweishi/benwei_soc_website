@@ -17,7 +17,7 @@ title: Benwei Shi
 author: Benwei Shi
 email: b.shi@utah.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal acadamic website for Benwei Shi.
+  Personal academic website for Benwei Shi.
 baseurl: "/~benwei" # the subpath of your site, e.g. /blog
 url: "https://users.cs.utah.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -52,3 +52,4 @@ exclude:
 github_username:  benweishi
 linkedin_username: benwei-shi
 googlescholar_user: Wt_FY_YAAAAJ
+dblp_id: 258/0957
